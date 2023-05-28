@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-create-user/static/css/main.80606c84.css",
+    "main.js": "/react-create-user/static/js/main.b1ac34ea.js",
+    "index.html": "/react-create-user/index.html",
+    "main.80606c84.css.map": "/react-create-user/static/css/main.80606c84.css.map",
+    "main.b1ac34ea.js.map": "/react-create-user/static/js/main.b1ac34ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80606c84.css",
+    "static/js/main.b1ac34ea.js"
+  ]
+}
